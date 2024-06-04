@@ -11,3 +11,6 @@ Instructions:
 -mix ingredients
 -knead for 20 minutes 
 -leave to rise for at least one hour 
+-knead briefly 
+-let rise another 25 minutes 
+-bake at 425 F for 25 minutes 
